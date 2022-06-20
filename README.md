@@ -7,8 +7,8 @@
 
 <div align="center">
 <a href="https://github.com/otavio-cardoso">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=otavio-cardoso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-cardoso&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=otavio-cardoso&theme=chartreuse-dark&show_icons=true&include_all_commits=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-cardoso&theme=chartreuse-dark&langs_count=7&layout=compact"/>
 <div>
   
 <div style="display:inline_block" align="center"><br>
