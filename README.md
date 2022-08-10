@@ -1,8 +1,8 @@
 ### Olá me chamo Otávio👋
 
 - 🔭 Em busca de oportunidades no mercado de desenvolvimento.
-- 🌱 Estudando C#, Mysql, HTML, CSS no Centro Universitário UNIFAAT.
-- ✒️ Habilidades com Hardware.
+- 🌱 Estudando C#, Mysql, HTML, CSS, PHP, Java, JavaScript, Microinformática na FATEC de Bragança Paulista.
+- ✒️ Trabalhando atualmente com suporte técnico.
 
 
 <div align="center">
