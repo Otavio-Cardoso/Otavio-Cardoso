@@ -1,7 +1,7 @@
 ### Olá me chamo Otávio👋
 
 - 🔭 Em busca de oportunidades no mercado de desenvolvimento.
-- 🌱 Estudando C#, Mysql, HTML, CSS, PHP, Java, JavaScript, Microinformática na FATEC de Bragança Paulista.
+- 🌱 Estudando C#, Mysql, HTML, CSS, PHP, Java, JavaScript na FATEC de Bragança Paulista.
 - ✒️ Trabalhando atualmente com suporte técnico.
 
 
