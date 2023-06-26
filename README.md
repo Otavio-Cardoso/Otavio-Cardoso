@@ -8,7 +8,7 @@
 <div align="center">
 <a href="https://github.com/otavio-cardoso">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=otavio-cardoso&theme=chartreuse-dark&show_icons=true&include_all_commits=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-cardoso&theme=chartreuse-dark&langs_count=7&layout=compact"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-cardoso&theme=chartreuse-dark&langs_count=7&layout=compact"/>
 <div>
   
 <div style="display:inline_block" align="center"><br>
@@ -16,6 +16,9 @@
 <img align="center"alt-"Ocardoso-Sql"height="50"width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Ocardoso-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ocardoso-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Ocardoso-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="center" alt="Ocardoso-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="Ocardoso-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <div>
 
   ##
