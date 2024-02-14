@@ -1,7 +1,8 @@
 ### Olá me chamo Otávio👋
 
-- 🔭 Em busca de oportunidades no mercado de desenvolvimento.
+- 🔭 Em busca de oportunidades no mercado de desenvolvimento ou de qualidade de Software.
 - 🌱 Estudando C#, Mysql, HTML, CSS, PHP, Java, JavaScript na FATEC de Bragança Paulista.
+- 🖥️ Aprendendo por meio de cursos Cypress, Selenium, Junit, Robot, Cucumber, testes manuais e automatizados.
 - ✒️ Trabalhando atualmente com suporte técnico.
 
 
@@ -19,7 +20,8 @@
 <img align="center" alt="Ocardoso-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Ocardoso-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center" alt="Ocardoso-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="Ocardoso-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="center" alt="Ocardoso-php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="center" alt="Ocardoso-Ruby" height="50" width="60" src="https://www.svgrepo.com/show/452095/ruby.svg" />
 <div>
 
   ##
