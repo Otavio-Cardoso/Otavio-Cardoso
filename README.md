@@ -1,8 +1,7 @@
 ### Olá me chamo Otávio👋
 
-- 🚀 Estagíario de QA na Tecsinapse.
-- 🌱 Estudando C#, Mysql, HTML, CSS, PHP, Java, JavaScript na FATEC de Bragança Paulista.
-- 🖥️ Me aperfeiçoando por meio de cursos em Cypress, Selenium, Junit, Jmeter, Cucumber, testes manuais e automatizados.
+- 🚀 QA na Tecsinapse.
+- 🖥️ Me aperfeiçoando por meio de cursos e práticas em Cypress, Selenium, Jmeter, testes manuais e automatizados.
 
 <div align="center">
 <a href="https://github.com/otavio-cardoso">
